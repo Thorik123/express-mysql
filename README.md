@@ -1,3 +1,3 @@
-## Belajar basic REST API menggunakan Express dan Node js
+### Belajar basic REST API menggunakan Express js Node js dan Mysql
 
 ---
